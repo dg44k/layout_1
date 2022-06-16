@@ -85,3 +85,15 @@ nav{
     width: 400px;
     height: auto;
 }
+
+
+
+
+
+/* Footer */
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 25px;
+}
