@@ -85,11 +85,50 @@ nav{
     width: 400px;
     height: auto;
 }
+/* Main */
+/* Section 1 */
+.main_inner_heading{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 30px;
+}
 
+.main_inner_pictures{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
 
+.main_inner_card{
+    width: 200px;
+    height: auto;
+    margin-top: 30px;
+}
 
+.main_card_picture{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
 
+.main_card_text{
+    text-align: center;
+    color: rgb(141, 141, 141);
+}
+/* Section 2 */
+.quote{
+    background-color: #E5E7EB;
+}
+blockquote{
+    font-size: 36px;
+    font-style: italic;
+}
+cite{
 
+}
 /* Footer */
 .footer{
     text-align: center;
