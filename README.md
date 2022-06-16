@@ -1,4 +1,3 @@
-# layout_1
 <h1>Simple layout</h1>
 <h2><a href = "https://dg44k.github.io/layout_1/">Live preview</a></h2>
 <hr>

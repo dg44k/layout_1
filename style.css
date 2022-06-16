@@ -70,16 +70,14 @@ nav{
     font-size: 18px;
 }
 .header_hero-inner_info_button{
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 800;
     width: 120px;
     padding: 10px;
     border-radius: 10px;
     background-color: #3882F6;
-    
-}
-.header_hero-inner_info_button > a{
-    color: #F9FAF8;
-    font-size: 18px;
-    font-weight: 800;
+    text-align: center;
 }
 .header_hero-inner_picture > img{
     width: 400px;
